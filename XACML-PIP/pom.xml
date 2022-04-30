@@ -16,7 +16,7 @@
 	<properties>
 		<version.velocity>1.7</version.velocity>
 		<version.opencsv>2.3</version.opencsv>
-		<version.h2>1.4.190</version.h2>
+		<version.h2>2.1.210</version.h2>
 		<version.mariadb>2.4.0</version.mariadb>
 		<version.hsqldb>2.3.3</version.hsqldb>
 	</properties>
