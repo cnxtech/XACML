@@ -30,7 +30,7 @@
 		<version.h2>1.4.190</version.h2>
 		<version.mariadb>2.4.0</version.mariadb>
 		<version.hsqldb>2.3.3</version.hsqldb>
-        <vaadin.version>7.7.7</vaadin.version>
+        <vaadin.version>7.7.24</vaadin.version>
     </properties>
 
     <dependencies>
